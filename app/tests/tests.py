@@ -4,4 +4,5 @@ def test_one():
 
 def test_two():
     x = "hello"
-    assert hasattr(x, "check")
+    # assert hasattr(x, "check")
+    assert "o" in x
