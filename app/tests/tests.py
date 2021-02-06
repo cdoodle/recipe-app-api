@@ -1,6 +1,6 @@
 def test_one():
     x = "one"
-    assert "y" in x
+    assert "o" in x
 
 def test_two():
     x = "hello"
